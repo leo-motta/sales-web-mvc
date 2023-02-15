@@ -10,8 +10,6 @@
 
   <ItemGroup>
     <Content Remove="Views\Sellers\Class.cshtml" />
-    <Content Remove="Views\Sellers\Details.cshtml" />
-    <Content Remove="Views\Sellers\Edit.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
